@@ -1,9 +1,8 @@
 # Test
 
-This repo demonstrates How to use git, npm, express using cmd command lines to build a simple servers in javascript.
+This repo demonstrates How to use git, npm and express using cmd command lines to build a simple server in javascript.
 
-It also demonstrates how to commit changes to github and run projects using nodemon (short for node monitor). Used for 
-restarting applications or projects automatically when there is a change in the script.
+It also demonstrates how to commit changes to github and run projects using #nodemon (short for node monitor). Used to automatically restart project when there is a change in the script.
 
 ###  We will be using *** Visual Studio Code *** as our editor.
 
@@ -13,7 +12,7 @@ To get started, we would need to create a repository on github and link it to ou
 
 * Next step, always remember to use the command "git init" on every project created, to keep track of changes made in project.
 
-* Moving forward, we need to also run "npm init" which is used to create the necessary packages needed in the project.
+* Moving forward, we need to run "npm init". This command is used to create the necessary packages needed in the project.
 
 * Next, we need to install npm, "npm install" (install npm the packages).
 
