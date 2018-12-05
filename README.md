@@ -11,13 +11,13 @@ To get started, we would need to create a repository on github and link it to ou
 
              " git remote add origin LINK_TO_GITHUB_REPOSITORY "
 
-# Next step, always remember to use the command "git init" on every project created, to keep track of changes made in project.
+* Next step, always remember to use the command "git init" on every project created, to keep track of changes made in project.
 
-# Moving forward, we need to also run "npm init" which is used to create the necessary packages needed in the project.
+* Moving forward, we need to also run "npm init" which is used to create the necessary packages needed in the project.
 
-# Next, we need to install npm, "npm install" (install npm the packages).
+* Next, we need to install npm, "npm install" (install npm the packages).
 
-# Next step is to install Express (A javascript framework for creating databases). "npm i -g express".
+* Next step is to install Express (A javascript framework for creating databases). "npm i -g express".
 
 i - install
 -g - globally
