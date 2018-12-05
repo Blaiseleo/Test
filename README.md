@@ -19,8 +19,8 @@ To get started, we would need to create a repository on github and link it to ou
 
 * Next step is to install Express (A javascript framework for creating databases). "npm i -g express".
 
-i - install
--g - globally
+                      i - install
+                      -g - globally
 
 Now we have nodemon installed, we no longer need to manually restart application after changes made. Nodemon handles it automatically.
 
